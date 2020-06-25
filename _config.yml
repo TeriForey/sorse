@@ -66,16 +66,10 @@ author:
   name   : "SORSE"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Series of Online Research Software Events"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:SORSE.enquiries@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://sorse20.researchsoftware.org"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/SORSE"
+  github: SORSE
+  twitter: Int_SORSE
+  email: *email
+  website: *url
 
 defaults:
   # _posts
