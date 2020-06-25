@@ -30,9 +30,9 @@ future: true
 indico_base_event: https://indico.scc.kit.edu/event/863
 
 twitter:
-  username: *twitter
+  username: Int_SORSE
  github:
-  username: *github
+  username: SORSE
 
 # Build settings
 markdown: kramdown
