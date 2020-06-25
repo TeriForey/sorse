@@ -29,6 +29,8 @@ search: true
 future: true
 indico_base_event: https://indico.scc.kit.edu/event/863
 
+twitter:
+  username: "Int_SORSE"
 
 # Build settings
 markdown: kramdown
